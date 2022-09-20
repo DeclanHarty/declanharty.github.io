@@ -3,3 +3,9 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     display: inline;
 }
+
+.Steak{
+    border-style: solid;
+    border-radius: 10pt;
+    border-color: gray;
+}
